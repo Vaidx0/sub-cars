@@ -1,22 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 80">
-  <g fill="#e82127">
-    <!-- Tesla T symbol -->
-    <path d="M150 8
-      C150 8 126 2 100 0
-      C100 9.5 105 15 113 17
-      C121 19 128 21 133 34
-      L150 78
-      L167 34
-      C172 21 179 19 187 17
-      C195 15 200 9.5 200 0
-      C174 2 150 8 150 8Z"/>
-    <!-- TESLA wordmark -->
-    <text x="150" y="72"
-      font-family="Arial Black, Arial, sans-serif"
-      font-weight="900"
-      font-size="20"
-      letter-spacing="6"
-      text-anchor="middle"
-      fill="#e82127">TESLA</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 115">
+  <path fill="#e82127" d="
+    M50 14
+    C50 14 34 3 6 0
+    C6 11 12 18 23 21
+    C31 23 37 27 41 40
+    L50 115
+    L59 40
+    C63 27 69 23 77 21
+    C88 18 94 11 94 0
+    C66 3 50 14 50 14Z
+  "/>
 </svg>
