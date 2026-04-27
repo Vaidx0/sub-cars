@@ -63,13 +63,23 @@ Thanks to everyone who helps grow this project 🚀
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/honda.png" alt="Honda" width="55"> <img src="brand-logos/acura.svg" alt="Acura" width="55"></td>
-      <td><a href="HONDA"><strong>HONDA</strong></a><br>6 models / 7 .sub files</td>
-      <td><a href="HONDA/ACCORD"><code>ACCORD</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/CIVIC"><code>CIVIC</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/CRV"><code>CRV</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="HONDA/HRV"><code>HRV</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/PILOT"><code>PILOT</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/RDX"><code>RDX</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
+      <td><a href="HONDA"><strong>HONDA</strong></a><br>7 models / 11 .sub files</td>
+      <td><a href="HONDA/ACCORD"><code>ACCORD</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/CIVIC"><code>CIVIC</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/CRV"><code>CRV</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="HONDA/HRV"><code>HRV</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/PILOT"><code>PILOT</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/RDX"><code>RDX</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HONDA/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(4 .sub files)</span></td>
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/hyundai.png" alt="Hyundai" width="50"> <img src="brand-logos/kia.svg" alt="Kia" width="50"> <img src="brand-logos/genesis.svg" alt="Genesis" width="50"></td>
       <td><a href="HYUNDAI"><strong>HYUNDAI</strong></a><br>8 models / 12 .sub files</td>
       <td><a href="HYUNDAI/CARNIVAL"><code>CARNIVAL</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HYUNDAI/ELANTRA"><code>ELANTRA</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HYUNDAI/G90"><code>G90</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HYUNDAI/GV80"><code>GV80</code></a> <span style="white-space:nowrap;">(4 .sub files)</span><br><a href="HYUNDAI/SANTA_FE"><code>SANTA_FE</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HYUNDAI/SONATA"><code>SONATA</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="HYUNDAI/SORENTO"><code>SORENTO</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="HYUNDAI/SPORTAGE"><code>SPORTAGE</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="brand-logos/isuzu.svg" alt="Isuzu" width="80"></td>
+      <td><a href="ISUZU"><strong>ISUZU</strong></a><br>1 model / 4 .sub files</td>
+      <td><a href="ISUZU/TRUCK"><code>TRUCK</code></a> <span style="white-space:nowrap;">(4 .sub files)</span></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="brand-logos/lamborghini.svg" alt="Lamborghini" width="80"></td>
+      <td><a href="LAMBORGHINI"><strong>LAMBORGHINI</strong></a><br>2 models / 4 .sub files</td>
+      <td><a href="LAMBORGHINI/HURACAN"><code>HURACAN</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="LAMBORGHINI/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/ldv.svg" alt="LDV" width="80"></td>
@@ -98,8 +108,8 @@ Thanks to everyone who helps grow this project 🚀
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/peugeot.png" alt="Peugeot" width="80"></td>
-      <td><a href="PEUGEOT"><strong>PEUGEOT</strong></a><br>3 models / 7 .sub files</td>
-      <td><a href="PEUGEOT/208"><code>208</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="PEUGEOT/307"><code>307</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="PEUGEOT/PARTNER"><code>PARTNER</code></a> <span style="white-space:nowrap;">(3 .sub files)</span></td>
+      <td><a href="PEUGEOT"><strong>PEUGEOT</strong></a><br>5 models / 13 .sub files</td>
+      <td><a href="PEUGEOT/108"><code>108</code></a> <span style="white-space:nowrap;">(4 .sub files)</span><br><a href="PEUGEOT/208"><code>208</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="PEUGEOT/307"><code>307</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="PEUGEOT/PARTNER"><code>PARTNER</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="PEUGEOT/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(2 .sub files)</span></td>
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/renault.png" alt="Renault" width="80"></td>
@@ -123,13 +133,13 @@ Thanks to everyone who helps grow this project 🚀
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/tesla.svg" alt="Tesla" width="40"></td>
-      <td><a href="TESLA"><strong>TESLA</strong></a><br>1 model / 4 .sub files</td>
-      <td><a href="TESLA/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(4 .sub files)</span></td>
+      <td><a href="TESLA"><strong>TESLA</strong></a><br>2 models / 19 .sub files</td>
+      <td><a href="TESLA/BEST_PORT_OPENER"><code>BEST_PORT_OPENER</code></a> <span style="white-space:nowrap;">(6 .sub files)</span><br><a href="TESLA/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(13 .sub files)</span></td>
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/toyota.png" alt="Toyota" width="55"> <img src="brand-logos/lexus.png" alt="Lexus" width="55"></td>
-      <td><a href="TOYOTA"><strong>TOYOTA</strong></a><br>9 models / 18 .sub files</td>
-      <td><a href="TOYOTA/CAMRY"><code>CAMRY</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="TOYOTA/COROLLA"><code>COROLLA</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/ESTIMA"><code>ESTIMA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="TOYOTA/IS"><code>IS</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/IS300"><code>IS300</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/NX200T"><code>NX200T</code></a> <span style="white-space:nowrap;">(4 .sub files)</span><br><a href="TOYOTA/PRIUS"><code>PRIUS</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="TOYOTA/RAV4"><code>RAV4</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/TACOMA"><code>TACOMA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span></td>
+      <td><a href="TOYOTA"><strong>TOYOTA</strong></a><br>10 models / 19 .sub files</td>
+      <td><a href="TOYOTA/CAMRY"><code>CAMRY</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="TOYOTA/COROLLA"><code>COROLLA</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/ESTIMA"><code>ESTIMA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="TOYOTA/IS"><code>IS</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/IS300"><code>IS300</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/NX200T"><code>NX200T</code></a> <span style="white-space:nowrap;">(4 .sub files)</span><br><a href="TOYOTA/PRIUS"><code>PRIUS</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="TOYOTA/RAV4"><code>RAV4</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/TACOMA"><code>TACOMA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="TOYOTA/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/volkswagen.png" alt="Volkswagen" width="80"></td>
@@ -138,8 +148,8 @@ Thanks to everyone who helps grow this project 🚀
     </tr>
     <tr>
       <td align="center"><img src="brand-logos/volvo.png" alt="Volvo" width="80"></td>
-      <td><a href="VOLVO"><strong>VOLVO</strong></a><br>1 model / 1 .sub files</td>
-      <td><a href="VOLVO/S40"><code>S40</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
+      <td><a href="VOLVO"><strong>VOLVO</strong></a><br>2 models / 3 .sub files</td>
+      <td><a href="VOLVO/S40"><code>S40</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="VOLVO/V60_PLUGIN_HYBRID_2013"><code>V60_PLUGIN_HYBRID_2013</code></a> <span style="white-space:nowrap;">(2 .sub files)</span></td>
     </tr>
   </tbody>
 </table>
