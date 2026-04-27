@@ -1,4 +1,21 @@
-# Cars Dataset
+# 🚗 Cars Dataset
+
+## 🤝 Contribution
+
+Contributions are welcome!
+
+If you’d like to improve this dataset, you can:
+- ➕ Add new car models  
+- 📁 Add additional `.sub` files  
+- 🛠️ Fix or improve the existing structure  
+
+Simply open a **Pull Request** with your changes 👍  
+
+Thanks to everyone who helps grow this project 🚀  
+
+---
+
+## 📂 Dataset Structure
 
 <table>
   <thead>
