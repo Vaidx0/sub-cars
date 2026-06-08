@@ -4,7 +4,7 @@
 
 Contributions are welcome!
 
-If you’d like to improve this dataset, you can:
+If you'd like to improve this dataset, you can:
 - ➕ Add new car models  
 - 📁 Add additional `.sub` files  
 - 🛠️ Fix or improve the existing structure  
@@ -34,6 +34,11 @@ If you see them in old forks, their contents should be moved directly under the 
   </thead>
   <tbody>
     <tr>
+      <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/audi.svg" alt="Audi" width="80"></td>
+      <td><a href="AUDI"><strong>AUDI</strong></a><br>2 models / 3 .sub files</td>
+      <td><a href="AUDI/A3"><code>A3</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="AUDI/A4"><code>A4</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
+    </tr>
+    <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/bmw.png" alt="BMW" width="80"></td>
       <td><a href="BMW"><strong>BMW</strong></a><br>1 model / 2 .sub files</td>
       <td><a href="BMW/X5"><code>X5</code></a> <span style="white-space:nowrap;">(2 .sub files)</span></td>
@@ -55,13 +60,13 @@ If you see them in old forks, their contents should be moved directly under the 
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/fiat.png" alt="Fiat" width="80"></td>
-      <td><a href="FIAT"><strong>FIAT</strong></a><br>7 models / 24 .sub files</td>
-      <td><a href="FIAT/BRAVO"><code>BRAVO</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/C1"><code>C1</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/C3"><code>C3</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/C9"><code>C9</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/TIPO"><code>TIPO</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/TYPE"><code>TYPE</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="FIAT/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(17 .sub files)</span></td>
+      <td><a href="FIAT"><strong>FIAT</strong></a><br>8 models / 33 .sub files</td>
+      <td><a href="FIAT/BRAVO"><code>BRAVO</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/C1"><code>C1</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/C3"><code>C3</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/C9"><code>C9</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/PUNTO"><code>PUNTO</code></a> <span style="white-space:nowrap;">(9 .sub files)</span><br><a href="FIAT/TIPO"><code>TIPO</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FIAT/TYPE"><code>TYPE</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="FIAT/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(17 .sub files)</span></td>
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/ford.png" alt="Ford" width="80"></td>
-      <td><a href="FORD"><strong>FORD</strong></a><br>4 models / 7 .sub files</td>
-      <td><a href="FORD/BRONCO"><code>BRONCO</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FORD/ESCAPE"><code>ESCAPE</code></a> <span style="white-space:nowrap;">(4 .sub files)</span><br><a href="FORD/MONDEO"><code>MONDEO</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FORD/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
+      <td><a href="FORD"><strong>FORD</strong></a><br>4 models / 9 .sub files</td>
+      <td><a href="FORD/BRONCO"><code>BRONCO</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FORD/ESCAPE"><code>ESCAPE</code></a> <span style="white-space:nowrap;">(4 .sub files)</span><br><a href="FORD/MONDEO"><code>MONDEO</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="FORD/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(3 .sub files)</span></td>
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/buick.svg" alt="Buick" width="45"> <img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/chevrolet.png" alt="Chevrolet" width="45"> <img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/gmc.jpg" alt="GMC" width="45"> <img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/cadillac.png" alt="Cadillac" width="45"></td>
@@ -100,8 +105,8 @@ If you see them in old forks, their contents should be moved directly under the 
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/mercedes-benz.png" alt="Mercedes-Benz" width="80"></td>
-      <td><a href="MERCEDES"><strong>MERCEDES</strong></a><br>2 models / 3 .sub files</td>
-      <td><a href="MERCEDES/GLE350"><code>GLE350</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="MERCEDES/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
+      <td><a href="MERCEDES"><strong>MERCEDES</strong></a><br>3 models / 6 .sub files</td>
+      <td><a href="MERCEDES/GLE350"><code>GLE350</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="MERCEDES/S450_W222"><code>S450_W222</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="MERCEDES/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/nissan.png" alt="Nissan" width="80"></td>
@@ -120,8 +125,8 @@ If you see them in old forks, their contents should be moved directly under the 
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/renault.png" alt="Renault" width="80"></td>
-      <td><a href="RENAULT"><strong>RENAULT</strong></a><br>2 models / 8 .sub files</td>
-      <td><a href="RENAULT/CAPTUR"><code>CAPTUR</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="RENAULT/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(6 .sub files)</span></td>
+      <td><a href="RENAULT"><strong>RENAULT</strong></a><br>3 models / 10 .sub files</td>
+      <td><a href="RENAULT/CAPTUR"><code>CAPTUR</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="RENAULT/TRAFIC"><code>TRAFIC</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="RENAULT/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(6 .sub files)</span></td>
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/skoda.svg" alt="Skoda" width="80"></td>
@@ -130,8 +135,8 @@ If you see them in old forks, their contents should be moved directly under the 
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/subaru.svg" alt="Subaru" width="80"></td>
-      <td><a href="SUBARU"><strong>SUBARU</strong></a><br>4 models / 5 .sub files</td>
-      <td><a href="SUBARU/FORESTER"><code>FORESTER</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="SUBARU/IMPREZA"><code>IMPREZA</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="SUBARU/OUTBACK"><code>OUTBACK</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="SUBARU/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
+      <td><a href="SUBARU"><strong>SUBARU</strong></a><br>4 models / 6 .sub files</td>
+      <td><a href="SUBARU/FORESTER"><code>FORESTER</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="SUBARU/IMPREZA"><code>IMPREZA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="SUBARU/OUTBACK"><code>OUTBACK</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="SUBARU/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(1 .sub file)</span></td>
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/suzuki.png" alt="Suzuki" width="80"></td>
@@ -145,8 +150,8 @@ If you see them in old forks, their contents should be moved directly under the 
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/toyota.png" alt="Toyota" width="55"> <img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/lexus.png" alt="Lexus" width="55"></td>
-      <td><a href="TOYOTA"><strong>TOYOTA</strong></a><br>11 models / 21 .sub files</td>
-      <td><a href="TOYOTA/CAMRY"><code>CAMRY</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="TOYOTA/COROLLA"><code>COROLLA</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/ESTIMA"><code>ESTIMA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="TOYOTA/IS"><code>IS</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/IS300"><code>IS300</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/NX200T"><code>NX200T</code></a> <span style="white-space:nowrap;">(4 .sub files)</span><br><a href="TOYOTA/PRIUS"><code>PRIUS</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="TOYOTA/RAV4"><code>RAV4</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/TACOMA"><code>TACOMA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="TOYOTA/TUNDRA"><code>TUNDRA</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(2 .sub files)</span></td>
+      <td><a href="TOYOTA"><strong>TOYOTA</strong></a><br>11 models / 23 .sub files</td>
+      <td><a href="TOYOTA/CAMRY"><code>CAMRY</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="TOYOTA/COROLLA"><code>COROLLA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="TOYOTA/ESTIMA"><code>ESTIMA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="TOYOTA/IS"><code>IS</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/IS300"><code>IS300</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/NX200T"><code>NX200T</code></a> <span style="white-space:nowrap;">(4 .sub files)</span><br><a href="TOYOTA/PRIUS"><code>PRIUS</code></a> <span style="white-space:nowrap;">(2 .sub files)</span><br><a href="TOYOTA/RAV4"><code>RAV4</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/TACOMA"><code>TACOMA</code></a> <span style="white-space:nowrap;">(3 .sub files)</span><br><a href="TOYOTA/TUNDRA"><code>TUNDRA</code></a> <span style="white-space:nowrap;">(1 .sub file)</span><br><a href="TOYOTA/UNCLASSIFIED"><code>UNCLASSIFIED</code></a> <span style="white-space:nowrap;">(2 .sub files)</span></td>
     </tr>
     <tr>
       <td align="center"><img style="background:#fff;padding:4px;border-radius:6px;" src="brand-logos/volkswagen.png" alt="Volkswagen" width="80"></td>
@@ -160,4 +165,3 @@ If you see them in old forks, their contents should be moved directly under the 
     </tr>
   </tbody>
 </table>
-
